@@ -67,6 +67,36 @@ Random Forest crop recommendation (95% accuracy) paired with K-Means supply chai
 
 <br>
 
+### Achievements
+
+- 500+ problems solved across LeetCode, GeeksforGeeks & HackerRank
+- 5★ C++ and 4★ Python/C on HackerRank
+- 3★ Coder on CodeChef (max rating 1429)
+- 100+ problems on GeeksforGeeks, coding score 330+
+
+<br>
+
+### Currently exploring
+
+Agentic AI systems, multi-modal models, and distributed training — with an eye on making MLOps on AWS boring and reliable rather than clever.
+
+<br>
+
+### GitHub activity
+
 <div align="center">
-<sub>500+ problems solved across LeetCode, GeeksforGeeks & HackerRank · 3★ on CodeChef</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=tharun-7733&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333&icon_color=555&title_color=000" height="150" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=tharun-7733&theme=default&hide_border=true&background=FFFFFF&stroke=EEEEEE&ring=333333&fire=333333&currStreakLabel=333333" height="150" />
+</div>
+
+<br>
+
+### Let's connect
+
+Open to internships, freelance work, and collaboration on AI-agent or backend projects. The fastest way to reach me is [email](mailto:official.tharunteja@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tharun-teja-o7).
+
+<br>
+
+<div align="center">
+<sub>Thanks for stopping by — feel free to star a repo you find useful.</sub>
 </div>
