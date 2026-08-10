@@ -1,8 +1,8 @@
 <div align="center">
 
-# Tharun Teja
+# Hey, I'm Tharun 👋
 
-AI Engineer & Backend Developer
+Building AI agents and backend systems, one project at a time.
 
 <a href="https://tharunportfolio.me"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square" /></a>
 <a href="https://www.linkedin.com/in/tharun-teja-o7"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square" /></a>
@@ -13,72 +13,43 @@ AI Engineer & Backend Developer
 
 <br>
 
-Based in India, currently completing a B.Tech in Computer Science at Lovely Professional University. Working across ML, backend systems, and applied AI.
+I'm a CS student who spends most of his free time shipping side projects — mostly AI agents, RAG pipelines, and backend systems that need to actually hold up under load. Right now I'm deep into multi-agent orchestration with LangGraph.
 
 <br>
 
-### Experience
+### What I've been building
 
-**Data Analyst Intern, Bluestock Fintech** — June 2026
-Exploratory data analysis on financial datasets, PostgreSQL query authoring (CTEs, window functions), and Flask APIs serving ML-driven insights on stock market metrics.
+**MERIDIAN** — an AI agent that researches companies the way an analyst would. Seven LangGraph agents run in parallel, pull in market + web data, and spit out an INVEST/WATCH/PASS call in under a minute.
+<sub>Next.js · LangGraph · Groq · Supabase</sub>
 
-<br>
+**iPrep** — an interview practice tool that actually grades your answers instead of just asking questions. Semantic similarity + XGBoost under the hood.
+<sub>Python · Flask · Sentence-BERT · AWS</sub>
 
-### Projects
+**NexChat** — a real-time chat app split into microservices, mostly built to learn how Redis Pub/Sub and WebSockets behave at scale.
+<sub>Spring Boot · Go · Redis · Docker</sub>
 
-**MERIDIAN — AI Investment Research Agent**
-A multi-agent research platform. Seven LangGraph agents run in a 7-node DAG with fan-out/fan-in parallelism, streaming live analysis over SSE to produce investment reports in under 60 seconds.
-<sub>Next.js · TypeScript · LangGraph · Groq / Llama 3.3 · Supabase</sub>
-
-**iPrep — Interview Preparation System**
-Adaptive interview prep with automated response scoring — 90% prediction accuracy via XGBoost and semantic similarity over Hugging Face embeddings, served through a Flask API.
-<sub>Python · Flask · Sentence-BERT · FLAN-T5 · AWS EC2</sub>
-
-**NexChat — Real-Time Chat System**
-A distributed chat application, three decoupled services communicating over WebSockets, with JWT-secured REST APIs and Redis Pub/Sub for message routing.
-<sub>Spring Boot · Go · PostgreSQL · Redis · Docker</sub>
-
-**Farmlytics — Crop Recommendation & Supply Chain Analytics**
-Random Forest crop recommendation (95% accuracy) paired with K-Means supply chain clustering (silhouette score 0.464), exposed through a Flask backend.
-<sub>Python · Flask · scikit-learn · Pandas</sub>
+**Farmlytics** — crop recommendations and supply-chain clustering for agricultural data, one of my earlier full-stack + ML projects.
+<sub>Flask · scikit-learn · Pandas</sub>
 
 <br>
 
-### Stack
+### Tools I reach for
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,go&theme=light" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin,go&theme=light" />
 </p>
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,huggingface,fastapi,flask&theme=light" />
 </p>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,redis&theme=light" />
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,redis,githubactions&theme=light" />
 </p>
 
 <br>
 
-### Certifications
+### Outside of code
 
-- Machine Learning Specialization — Stanford Online & DeepLearning.AI, 2026
-- Software Design & Project Management — HKUST, 2026
-- Oracle Cloud Infrastructure AI Foundations Associate — Oracle, 2025
-- Prompt Engineering: Generative AI & LLMs — Infosys, 2025
-
-<br>
-
-### Achievements
-
-- 500+ problems solved across LeetCode, GeeksforGeeks & HackerRank
-- 5★ C++ and 4★ Python/C on HackerRank
-- 3★ Coder on CodeChef (max rating 1429)
-- 100+ problems on GeeksforGeeks, coding score 330+
-
-<br>
-
-### Currently exploring
-
-Agentic AI systems, multi-modal models, and distributed training — with an eye on making MLOps on AWS boring and reliable rather than clever.
+I solve a lot of DSA problems for fun (500+ across LeetCode, GFG, HackerRank), and I'm slowly working through Kaggle competitions when I have a free weekend.
 
 <br>
 
@@ -91,12 +62,6 @@ Agentic AI systems, multi-modal models, and distributed training — with an eye
 
 <br>
 
-### Let's connect
-
-Open to internships, freelance work, and collaboration on AI-agent or backend projects. The fastest way to reach me is [email](mailto:official.tharunteja@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tharun-teja-o7).
-
-<br>
-
 <div align="center">
-<sub>Thanks for stopping by — feel free to star a repo you find useful.</sub>
+<sub>Always happy to talk about agents, backend design, or your latest side project — <a href="mailto:official.tharunteja@gmail.com">say hi</a>.</sub>
 </div>
